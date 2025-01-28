@@ -5,4 +5,4 @@ Introduction to data transformations using dplyr
 
 This project contains R code with an accompanying presentation. The presentation is contained in the "docs" folder. The other documents and folders contain standalone code for students to use on their own.
 
-To view the presentation, visit: https://psych-259-data-science-2022.github.io/259-data-transformations/
+To view the presentation, visit: https://github.com/2025-PSYC-259/259-data-transformations/blob/e855787d502e5e34ffc77665add05c92b8da0df7/slides.pdf
