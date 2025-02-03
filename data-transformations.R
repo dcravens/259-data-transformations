@@ -189,5 +189,5 @@ ds %>% group_by(species) %>%
             m_height = mean(height, na.rm = T),
             max_height = max(height, na.rm = T),
             n = n())
-
+ungroup() #ungroups so following analyses won't be grouped
 
